@@ -13,4 +13,4 @@ jobs:
 
     steps:
     - name: make
-      run: gcc main.c -o main
+      run: make
